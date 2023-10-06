@@ -1,0 +1,9 @@
+*.mp4
+*.docx
+*.doc
+
+quartus/
+work/
+*.mti
+*.mpf
+*.bak
